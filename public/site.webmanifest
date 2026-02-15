@@ -1,0 +1,16 @@
+{
+    "name": "Barcelona Tantra Massage",
+    "short_name": "Barcelona Tantra Massage \ud83c\udf1e",
+    "description": "Find Tantra Massage in Barcelona with 9 directory listings. Spots in areas like Aribau Street and 08010 offer WhatsApp booking. Sessions start around 50 EUR.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#ff9800",
+    "icons": [
+        {
+            "src": "/favicon.svg",
+            "sizes": "any",
+            "type": "image/svg+xml"
+        }
+    ]
+}
